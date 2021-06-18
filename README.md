@@ -38,10 +38,10 @@ For the source code, please consult my GitHub page:
 
 ## Deployed Website:
 
-- [Website](https://jlw429.github.io/EmployeeDirectory/)
+- [Website](https://jlw429.github.io/buggySite/)
 
 ## Screenshots
 
 ### Main Page:
 
-![Main](assets/images/sshomework1.png 'Main')
+![Main](assets/images/SShomework1.png 'Main')
