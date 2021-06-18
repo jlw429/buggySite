@@ -44,4 +44,4 @@ For the source code, please consult my GitHub page:
 
 ### Main Page:
 
-![Main](assets/images/SShomework1.png 'Main')
+![Main](/assets/images/SShomework1.png 'Main')
